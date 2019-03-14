@@ -36,9 +36,8 @@
 
 
 로그 출력을 위한 함수 (Free Function)
-
+```swift
 print(3.14)
-
 var num = 1
 
 print(num)
@@ -48,7 +47,7 @@ print("숫자", num)
 print("숫자 \(num)")
 
 print("숫자 " + String(num))
-
+```
  ## Comment
  [Quick Help Markup](https://goo.gl/YTge3C)
 
@@ -67,7 +66,7 @@ print("숫자 " + String(num))
  
 ***************************************************
 
-
+```swift
 print("Hello, world!")
 // print("Hello, world!")
 /// print("Hello, world!")
@@ -81,27 +80,23 @@ print("Hello, world!")
  but is written over multiple lines. */
 
 /*
- This is the start of the first multiline comment.
- 
+ This is the start of the first multiline comment. 
  /* This is the second, nested multiline comment. */
-
 This is the end of the first multiline comment.
  */
- 
+``` 
 
 
 
  ## Semicolon (;)
  - 각 라인의 마지막에 붙는 세미콜론은 옵션
  - 한 라인에 여러 구문(다중 명령)을 사용하고 싶을 경우는 세미콜론 필수
- 
+```swift 
 print(1); print(2); print(3);
 
-//print(1);
-
-//print(2);
-
-//print(3);
+print(1);
+print(2);
+print(3);
 
 
 
