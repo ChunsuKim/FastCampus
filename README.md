@@ -36,9 +36,11 @@
 
 
 로그 출력을 위한 함수 (Free Function)
+
 print(3.14)
 
 var num = 1
+
 print(num)
 
 print("숫자", num)
@@ -80,8 +82,10 @@ print("Hello, world!")
 
 /*
  This is the start of the first multiline comment.
+ 
  /* This is the second, nested multiline comment. */
- This is the end of the first multiline comment.
+
+This is the end of the first multiline comment.
  */
  
 
@@ -92,8 +96,11 @@ print("Hello, world!")
  - 한 라인에 여러 구문(다중 명령)을 사용하고 싶을 경우는 세미콜론 필수
  
 print(1); print(2); print(3);
+
 //print(1);
+
 //print(2);
+
 //print(3);
 
 
