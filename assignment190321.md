@@ -82,6 +82,11 @@ print("Cat의 뇌가 있습니까? \(cat.brain)")
 ```
 
 # Assignment 2
+
+첨부된 각 도형의 이미지를 참고하여 각 도형별 클래스를 만들고 각각의 넓이, 둘레, 부피를 구하는 프로퍼티와 메서드 구현하기 (클래스 구현 연습)
+
+![그림](https://user-images.githubusercontent.com/48010847/54744863-6a1ac000-4c0b-11e9-98d8-88750ad4bf92.png)
+
 ```swift
 print("========show me the Square=========")
 
